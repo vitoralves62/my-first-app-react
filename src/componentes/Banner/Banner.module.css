@@ -1,6 +1,6 @@
 .banner {
     padding: 3rem 7.5rem 6.25rem;
-    background-color: var(--azul-escuro);
+    background-color: #990000;
     color: var(--branco);
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -29,15 +29,15 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 18vw;
+    width: 20vw;
     border-radius: 50%;
 }
 
 .imagens > .circuloColorido {
     position: absolute;
-    right: 7vw;
-    bottom: 2.2vw;
-    width: 25vw;
+    right: 6vw;
+    bottom: 2.0vw;
+    width: 22vw;
 }
 
 @media (max-width: 1100px) {    

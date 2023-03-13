@@ -1,5 +1,5 @@
 import styles from './Banner.module.css';
-import circuloColorido from 'assets/circulo_colorido.png'
+import circuloColorido from 'assets/circulo_preto.png'
 import minhaFoto from 'assets/minha_foto.png'
 
 export default function Banner(){
@@ -11,7 +11,7 @@ export default function Banner(){
                 </h1>
                 <p className={styles.paragrafo}>
                     Boas vindas ao meu espaço pessoal! 
-                    Eu sou Vitor Alves, analista de infraestrutura de TI da Poli. Esse é o meu primeiro projeto, e utilizarei deste como currículo.
+                    Eu sou Vitor Alves, analista de infraestrutura de TI da Poli. Esse é o meu primeiro projeto, e abaixo seguem conteúdos sobre programação.
                 </p>
             </div>
             <div className={styles.imagens}>
